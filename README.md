@@ -13,6 +13,6 @@ CODE FILES
   
 DATA FILES
 
-  reviews.json: This is the data file containing all of the 6.9 milion reviews. Obviously this is far too large for processing.
+  reviews.json: This is the data file containing all of the 6.9 milion reviews. Obviously this is far too large for processing. (NOTE: This file is not present in this repo on account of it being too large for github to accept. Link to source of this file is present in final report)
   
   reviewSmall.json: This is the data file that is 10000 reviews that was used for this project after reviews.json was processed through CreateJson.ipynb
